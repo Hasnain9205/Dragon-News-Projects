@@ -9,11 +9,11 @@ export default function RightSidevar() {
     <div>
       <div className="space-y-4">
         <h1 className="text-xl font-semibold text-start">Login With</h1>
-        <button className="btn bg-white text-sm font-medium border-2 px-16">
+        <button className="btn bg-white text-sm font-medium border-2 px-14">
         <FaGoogle />
   Login With Google
 </button>
-        <button className="btn bg-white text-sm font-medium border-2 px-16">
+        <button className="btn bg-white text-sm font-medium border-2 px-14">
         <FaGithub />
   Login With Github
 </button>
